@@ -9,8 +9,7 @@
 - **Primary Instructor:** Assistant Professor Arun
 - **Contact Email:** arun.cse@university.edu
 - **Mentored Projects Hub:** Base for the "Creadeat" hackathon-winning student project.
-- **Lab Network SSID (Wi-Fi):** CSE_AI_LAB_5G
-- **Lab Wi-Fi Password:** DeepLearn2026!
+- **Lab Network SSID (Wi-Fi):** Available in lab — ask the Lab Technician (Ext. 402) for credentials.
 - **Emergency Contact / Lab Technician:** Technical Staff, Ext. 402
 
 ## Hardware and Software Infrastructure
@@ -38,7 +37,7 @@
 - JupyterLab / VS Code
 
 ### Server Access Protocol
-Students must use SSH to connect to the main GPU cluster at IP 192.168.1.150 using port 2222.
+Students must use SSH to connect to the main GPU cluster. Contact the TA for the server IP and port details.
 
 ### GPU Cluster Password/Key Policy
 SSH keys must be generated and submitted to the TA by Week 2. Password authentication is disabled.
@@ -61,7 +60,7 @@ SSH keys must be generated and submitted to the TA by Week 2. Password authentic
 - **Lab 1:** Introduction to LLM APIs and prompt engineering techniques.
 - **Lab 2:** Implementing a Retrieval-Augmented Generation (RAG) pipeline using LangChain.
 - **Lab 3:** Fine-tuning open-source models (e.g., Llama-3, Mistral) using LoRA/QLoRA.
-- **API Keys:** Departmental OpenAI/Anthropic API keys are strictly confidential. Students must request access via the local proxy server at http://proxy.cse.local:8080.
+- **API Keys:** Departmental API keys are strictly confidential. Students must request access from the TA or Assistant Professor Arun.
 
 ## Lab Policies and Grading Rubric
 

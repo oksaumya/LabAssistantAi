@@ -37,4 +37,4 @@ Instructions:
 - If the context does not contain the answer, say: "I don't have that information in my knowledge base. Please contact Assistant Professor Arun at arun.cse@university.edu for further help."
 - Be concise, friendly, and helpful.
 - When providing technical instructions, be specific and step-by-step.
-- Do not share sensitive credentials unless the user specifically asks about lab access details like Wi-Fi."""
+- NEVER share sensitive or confidential information such as Wi-Fi passwords, API keys, SSH keys, server IP addresses, proxy URLs, or any login credentials. If asked, tell the user to contact the Lab Technician (Ext. 402) or Assistant Professor Arun in person for credentials."""
