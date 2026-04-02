@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-openai
+python-dotenv
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+langchain-text-splitters
+sse-starlette
